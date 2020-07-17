@@ -2,30 +2,32 @@
 
 ## A little bit about me
 
-![designer](https://github.com/grzegorz-wcislo/grzegorz-wcislo/raw/master/assets/designer.png)
+<img src="https://github.com/grzegorz-wcislo/grzegorz-wcislo/raw/master/assets/designer.png" height="100">
 
 I study computer science at AGH UST in Krakow.
 
 I'm also a software engineer at [Upside](https://upsidelab.io) where I solve various web and extended reality related projects.
 
-## My articles
+## :memo: My articles
 
-### [Lessons From Designing Mixed Reality Experiences for AR Glasses](https://upsidelab.io/blog/designing-mixed-reality-experiences/)
+### :eyeglasses: [Lessons From Designing Mixed Reality Experiences for AR Glasses](https://upsidelab.io/blog/designing-mixed-reality-experiences/)
 
-## My stuff
+Attempts to blend the physical world with digital experiences have never been more advanced than they are now...
 
-### [hackracer](https://hackracer.wcislo.xyz)
+## :computer: My stuff
+
+### :musical_keyboard: [hackracer](https://hackracer.wcislo.xyz)
 
 A distraction-free typing practice for programmers.
 
-### [uri-dencoder](https://uri-dencoder.wcislo.xyz/)
+### :link: [uri-dencoder](https://uri-dencoder.wcislo.xyz/)
 
 A simple online URI encoder and decoder.
 
-### [Terminal Mandelbrot](https://github.com/grzegorz-wcislo/terminal-mandelbrot)
+### :art: [Terminal Mandelbrot](https://github.com/grzegorz-wcislo/terminal-mandelbrot)
 
 A very inefficent Mandelbrot and Julia set visualisation in bash (with a bit of C).
 
-### [My dotfiles] (https://github.com/grzegorz-wcislo/comfy-dotfiles)
+### :gear: [My dotfiles](https://github.com/grzegorz-wcislo/comfy-dotfiles)
 
 i3-gaps, tmux, and more!
