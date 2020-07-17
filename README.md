@@ -2,7 +2,7 @@
 
 ## A little bit about me
 
-![designer](./assets/designer.png)
+![designer](https://github.com/grzegorz-wcislo/grzegorz-wcislo/raw/master/assets/designer.png)
 
 I study computer science at AGH UST in Krakow.
 
