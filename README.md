@@ -6,7 +6,7 @@
 
 I study computer science at AGH UST in Krakow.
 
-I'm also a software engineer at [Upside](https://upsidelab.io) where I create various web and extended reality related solutions.
+I'm also a devops engineer at [inFakt](https://www.infakt.pl/).
 
 ## :memo: My articles
 
